@@ -5,7 +5,6 @@
 # Note: There should be no output until all the input has been received.
 # Note 2: Do not put blank lines between test cases solutions.
 # Note 3: Take input from standard input, and output to standard output.
-
 # Do not use any for loop, while loop, or any list / set / dictionary comprehension
 
 def process_string(input_string):
